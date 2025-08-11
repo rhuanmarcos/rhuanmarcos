@@ -1,21 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+# Olá, eu sou o Rhuan Marcos 👋😁
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rhuan+Marcos;I'm+20+years+old;I'm+from+Brazil;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Sou estudante universitário de Ciência da Computação, com interesse especial em computação em nuvem e infraestrutura moderna.
+Tenho me dedicado a aprender linguagens como Python, C, JavaScript e fundamentos da web, enquanto mergulho nos conceitos que sustentam o universo Cloud.
 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+- 📫 Me encontre em: [LinkedIn](https://linkedin.com/in/rhuanmarcos) | [GitHub](https://github.com/rhuanmarcos) | [Email](rhuanmarcoscontato@gmail.com)
 
-### Studying in this moment:
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+## 🛠💻 Linguagens
 
-<div align="center"> 
-
-
-<a href = "mailto:rhuanmarcoscontato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rhuan-marcos-964bb2262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+  <div>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  </div>
