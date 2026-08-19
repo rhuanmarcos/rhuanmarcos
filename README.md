@@ -1,3 +1,6 @@
+RHUAN MARCOS
+
+```
 [SYSTEM] Booting profile.sh...
 [AUTH]   Access requested by: rhuan.marcos
 [AUTH]   MFA verification.......... OK
