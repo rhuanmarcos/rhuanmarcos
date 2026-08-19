@@ -1,8 +1,3 @@
-<div align="center">
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=RHUAN%20MARCOS&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=35)
-
-```
 [SYSTEM] Booting profile.sh...
 [AUTH]   Access requested by: rhuan.marcos
 [AUTH]   MFA verification.......... OK
@@ -23,7 +18,6 @@ name:        Rhuan Marcos
 role:        Analista SOC | Blue Team
 education:   Estudante de Ciência da Computação
 focus:       SIEM & OSINT
-mission:     "detectar antes que aconteça"
 ```
 
 <br>
@@ -54,7 +48,6 @@ mission:     "detectar antes que aconteça"
 ![SIEM](https://img.shields.io/badge/SIEM-black?style=for-the-badge&logo=splunk&logoColor=00ff41&color=0d1117)
 ![OSINT](https://img.shields.io/badge/OSINT-black?style=for-the-badge&logo=shodan&logoColor=00ff41&color=0d1117)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=00ff41&color=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=00ff41&color=0d1117)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00ff41&color=0d1117)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=00ff41&color=0d1117)
 
@@ -100,7 +93,4 @@ mission:     "detectar antes que aconteça"
 [LOG] Conexão encerrada pelo cliente.
 [LOG] exit(0)
 ```
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer)
-
 </div>
