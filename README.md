@@ -80,18 +80,6 @@ focus:       SIEM & OSINT
 
 <br>
 
-## `> uptime --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhuanmarcos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanmarcos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
-
-</div>
-
-<br>
-
 <div align="center">
 
 ```
