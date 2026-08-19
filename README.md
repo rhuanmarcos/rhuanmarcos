@@ -1,4 +1,6 @@
-RHUAN MARCOS
+## `> RHUAN MARCOS`
+
+<div align="center">
 
 ```
 [SYSTEM] Booting profile.sh...
