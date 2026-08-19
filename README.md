@@ -1,16 +1,106 @@
-# Olá, eu sou o Rhuan Marcos 👋😁
+<div align="center">
 
-Sou estudante universitário de Ciência da Computação, com interesse especial em computação em nuvem e infraestrutura moderna.
-Tenho me dedicado a aprender linguagens como Python, C, JavaScript e fundamentos da web, enquanto mergulho nos conceitos que sustentam o universo Cloud.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=RHUAN%20MARCOS&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=35)
 
-- 📫 Me encontre em: [LinkedIn](https://linkedin.com/in/rhuanmarcos) | [GitHub](https://github.com/rhuanmarcos) | [Email](rhuanmarcoscontato@gmail.com)
+```
+[SYSTEM] Booting profile.sh...
+[AUTH]   Access requested by: rhuan.marcos
+[AUTH]   MFA verification.......... OK
+[STATUS] ACCESS GRANTED
+```
 
-## 🛠💻 Linguagens
+</div>
 
-  <div>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
-    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
-    <img width='50' height='50' src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  </div>
+<br>
+
+## `> whoami`
+
+```bash
+$ cat about.txt
+```
+```yaml
+name:        Rhuan Marcos
+role:        Analista SOC | Blue Team
+education:   Estudante de Ciência da Computação
+focus:       SIEM & OSINT
+mission:     "detectar antes que aconteça"
+```
+
+<br>
+
+## `> cat profile.log`
+
+```
+[STATUS] ATIVO
+
+[INFO]  Atuação como Analista SOC, com foco em monitoramento,
+        detecção e resposta a incidentes de segurança.
+
+[INFO]  Rotina envolve análise de eventos e alertas via SIEM,
+        além de técnicas de OSINT para coleta e correlação
+        de inteligência sobre ameaças.
+
+[INFO]  Em formação acadêmica em Ciência da Computação,
+        unindo teoria e prática no dia a dia da segurança
+        da informação.
+```
+
+<br>
+
+## `> ls -la ./skills`
+
+<div align="center">
+
+![SIEM](https://img.shields.io/badge/SIEM-black?style=for-the-badge&logo=splunk&logoColor=00ff41&color=0d1117)
+![OSINT](https://img.shields.io/badge/OSINT-black?style=for-the-badge&logo=shodan&logoColor=00ff41&color=0d1117)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=00ff41&color=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=00ff41&color=0d1117)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00ff41&color=0d1117)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=00ff41&color=0d1117)
+
+</div>
+
+<br>
+
+## `> tail -f current_focus.feed`
+
+- 🛡️ Monitoramento e triagem de alertas em ambiente **SOC / Blue Team**
+- 🔎 Técnicas de **OSINT** aplicadas à investigação e inteligência de ameaças
+- 🎓 Graduando em **Ciência da Computação**, aprofundando fundamentos de redes e segurança
+- 📚 Estudo contínuo de frameworks como **MITRE ATT&CK**
+
+<br>
+
+## `> netstat -an | grep ESTABLISHED`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00ff41&color=0d1117)](https://linkedin.com/in/rhuanmarcos)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=00ff41&color=0d1117)](mailto:rhuanmarcoscontato@gmail.com)
+
+</div>
+
+<br>
+
+## `> uptime --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhuanmarcos&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanmarcos&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+[LOG] Conexão encerrada pelo cliente.
+[LOG] exit(0)
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer)
+
+</div>
